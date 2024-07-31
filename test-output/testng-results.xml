@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-31T15:11:02 GMT-04:00" name="Default suite" finished-at="2024-07-31T15:11:07 GMT-04:00" duration-ms="5084">
+    <groups>
+    </groups>
+    <test started-at="2024-07-31T15:11:02 GMT-04:00" name="Default test" finished-at="2024-07-31T15:11:07 GMT-04:00" duration-ms="5084">
+      <class name="tests.CarbohydratesTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.CarbohydratesTest@776aec5c]" started-at="2024-07-31T15:11:02 GMT-04:00" name="setup" finished-at="2024-07-31T15:11:03 GMT-04:00" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyFormValidationForAgeField()[pri:0, instance:tests.CarbohydratesTest@776aec5c]" started-at="2024-07-31T15:11:03 GMT-04:00" name="VerifyFormValidationForAgeField" finished-at="2024-07-31T15:11:05 GMT-04:00" duration-ms="1782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFormValidationForAgeField -->
+        <test-method signature="VerifyUserCanSearchForDifferentCalculators()[pri:0, instance:tests.CarbohydratesTest@776aec5c]" started-at="2024-07-31T15:11:05 GMT-04:00" name="VerifyUserCanSearchForDifferentCalculators" finished-at="2024-07-31T15:11:07 GMT-04:00" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanSearchForDifferentCalculators -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.CarbohydratesTest@776aec5c]" started-at="2024-07-31T15:11:07 GMT-04:00" name="teardown" finished-at="2024-07-31T15:11:07 GMT-04:00" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.CarbohydratesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
